@@ -1,1 +1,1 @@
-# namoz_vaqtlari_bot
+# Namoz Vaqtlarini ko'rsatuvchi bot
